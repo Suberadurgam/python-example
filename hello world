@@ -1,0 +1,3 @@
+x=str(input('enter  a name:'))
+print(x)
+print(type(x))
